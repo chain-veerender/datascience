@@ -1,5 +1,5 @@
-# datascience
-It consists of examples, assignments discussed in data science/analytics course at algorithmica.
+# Datascience
 
-It also helps us to do build solutions to assignment problems collaboratively. You can push solutions to solutions branch
-created inside assignments section.
+It consists of comprehensive ipynb notebooks for major concepts and algorithms in ML and AI
+
+There is a open discussion forum activated to communicate any ideas or discuss and clarify any doubts on ML and AI concepts
